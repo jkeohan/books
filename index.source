@@ -1,0 +1,114 @@
+<html>
+<head>
+<style>
+body {
+  background-color: #425A99
+}
+
+h1 {
+  color: CC3C1B;
+  font-family: 'Coustard', serif;
+  text-align: center;
+}
+
+p {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#container {
+  height: 75%;
+  width: 80%;
+  margin: 5% 5%;
+  background-color: #08CEFF;
+  border-style: solid;
+  border-color: #08CEFF;
+  overflow-y: auto;
+}
+
+#header {
+  height: 20%;
+  width: 80%;
+  margin: 10px;
+  background-color: #FF8548;
+  border: 1px solid #1B4CCC;
+}
+
+#welcome {
+  border: 1px solid #1B4CCC;
+  background-color: #FF8548;
+  float: left;
+  height: 70%;
+  width: 70%;
+  overflow-y: auto;
+  margin: 5px;
+}
+
+#menu {
+  border: 1px solid #1B4CCC;
+  background-color: #FF8548;
+  height: 70%;
+  width: 25%;
+  float: left;
+  overflow-y: auto;
+  margin: 5px;
+}
+
+</style>
+</head>
+
+
+<header>
+  <link href="styles.css" style="text/css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Coustard' rel='stylesheet' type='text/css'>
+  <script src="books.js"></script>
+  <header>
+    <body>
+      <div id="container">
+
+        <h1>How Now Brown Cow</h1>
+
+        <div id="welcome">
+          <p>
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+            place holder stuff here for the description
+          </p>
+        </div>
+        <div id="menu">
+          <REPLACELI>
+          </div>
+        </div>
+      </body>
+      </html>
